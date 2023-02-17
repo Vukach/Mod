@@ -1,3 +1,7 @@
 {
-    "item.vuksmoney.creditcard" : "Credit Card"
+  "item.vuksmoney.creditcard" : "Credit Card",
+
+	"item.vuksmoney.hops" : "Hops",
+
+	"tab.vuksmoney.tab1": "Vukach's Currency"
 }
