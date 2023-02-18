@@ -1,6 +1,6 @@
-package vukach.vuks.money.mixin;
+package vukach.vuksmoney.mixin;
 
-import vukach.vuks.money.VukachsMoney;
+import vukach.vuksmoney.VukachsMoney;
 import net.minecraft.client.gui.screen.TitleScreen;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
